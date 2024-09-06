@@ -1,3 +1,8 @@
+p {
+    font-weight: bold;
+    font-family:'Segoe UI';
+
+}
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +11,7 @@
 
 .container {
     display: flex;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI'
 }
 
 .map-column {
@@ -27,7 +32,7 @@ padding: 20px;
 border-bottom-left-radius: 20px;
 border-bottom-right-radius: 20px;
 width: 80%;
-background-color: rgb(235, 213, 186);
+background-color: rgb(228, 153, 231);
 border-collapse: separate;
 border-spacing: 0 10px;
 
@@ -39,16 +44,16 @@ border-spacing: 0 10px;
 }
 
 .info-table tr td {
-    color: #494949;
+    color: #0d0210;
 }
 
 caption {
     font-size: 22px;
     padding: 12px;
     text-transform: uppercase; 
-    background-color: #494949;
+    background-color: #0f0113;
     font-weight: bold;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    color: rgb(235, 213, 186);
+    color: rgb(172, 67, 173);
   }
